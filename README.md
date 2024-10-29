@@ -42,11 +42,11 @@
 
 ![enter image description here](https://inwfile.com/s-fw/qvw8pv.jpg)
 
- 3. Jumper Wires
+3. Jumper Wires
 
 ![enter image description here](https://res.cloudinary.com/rsc/image/upload/b_rgb:FFFFFF,c_pad,dpr_2.625,f_auto,h_535,q_auto,w_950/c_pad,h_535,w_950/R2048239-01?pgw=1&pgwact=1)
 
- 4. MQ-2 Smoke Gas Sensor
+4. MQ-2 Smoke Gas Sensor
 
 ![enter image description here](https://www.tido.tech/wp-content/uploads/2020/09/l1.jpg)
 ## หลักการทำงาน
